@@ -38,6 +38,10 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 
 To make a richer JS standard library, the TC39 process should scale. A more frequent, higher bandwidth, remote-friendly feedback loop is useful for library proposals that may have less cross-cutting concerns than core language feature proposals. Lack of a more codified committee-wide async communication norm means proposals lose momentum or have to wait another 2 months to make progress.
 
+### Is this gated by built-in modules?
+
+Library proposals could be any of, but not limited to, the following: built-in modules, or new globals, or new methods on globals or existing prototypes. This task group is intended for all such proposals, not only proposals of a particular form.
+
 ### Does this undermine plenary meeting's authority?
 
 The plenary meeting has the final say on proposal advancement for stages 2+. This task group is designed to promote a healthier feedback loop.
