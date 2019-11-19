@@ -23,20 +23,23 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 
 ## Aspirational Norms
 
-- SLTG is intended to be a friendly, collaborative space to foster iterative design work on proposals. SLTG is not intended to be a miniature TC39 for standard library proposals. The idea is to gather relevant stakeholders already participating in TC39 to iterate on library work and iron out concerns before going to plenary for approval of stage advancement. Lack of consensus on recommendations should be taken as steady progress and an expectation to revisit in 2 weeks.
+- SLTG is intended to be a friendly, collaborative space to foster iterative design work on proposals. Procedurally, SLTG is not intended to be a miniature TC39 for standard library proposals. The idea is to gather relevant stakeholders already participating in TC39 to iterate on library work and iron out concerns before going to plenary for approval of stage advancement. Lack of consensus on recommendations should be taken as steady progress.
 - SLTG is intended as an attractive space for proposal champions, implementers, and reviewers to get work done and be in communication, gradually getting them all in the same space. Over time, more of the discussions would be shifted into the SLTG from TC39 plenary. Should discussions arise in TC39, then the earlier conclusion from the SLTG can be referenced and explained, to be revisited only if necessary.
 - Proposal champions are free to work with SLTG, or to develop their proposals entirely in plenary. SLTG may discuss a TC39 proposal and follow up with the champion and committee about it. No up-front decision needs to be made about whether a proposal will be discussed in SLTG or not.
 
 ## Prior Art
 
-- The [C++ committee](https://isocpp.org/std/the-committee) is subdivided among domains and has a parallelized pipeline model.
 - TG2 (ecma402) works well and is highly productive.
+- The [C++ committee](https://isocpp.org/std/the-committee) is subdivided among domains and has a parallelized pipeline model.
+- Allen Wirfs-Brock's [vision talk in 2017](https://github.com/tc39/agendas/blob/master/2017/ES-next20.pdf) envisioned smaller, parallel subgroups with fewer in-person meetings and specifically cited the C++ committee.
 
 ## FAQ
 
 ### Why?
 
 To make a richer JS standard library, the TC39 process should scale. A more frequent, higher bandwidth, remote-friendly feedback loop is useful for library proposals that may have less cross-cutting concerns than core language feature proposals. Lack of a more codified committee-wide async communication norm means proposals lose momentum or have to wait another 2 months to make progress.
+
+In the longer term, I hope we enable more granular, more frequent, remote-friendly standards participation to scale the committee and lessen the travel burden. I'm calling this the "GC optimization plan": incrementalize first (this proposal), and with any luck, in time, be both concurrent with the mutator (plenary) and parallel with other work (other task groups).
 
 ### Is this gated by built-in modules?
 
