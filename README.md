@@ -12,7 +12,6 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 - Shall **not** have an editor, as it does not produce a new spec.
 - Same IPR policy as TC39 plenary.
 - Consensus-driven.
-- Have the ability to grant Stage 1 to library proposals. That is, to generally act as a first filter for library proposals.
 - Be responsible for producing and reporting recommendations to TC39 on the development and stage advancement of library proposals. SLTG recommendations to TC39 are to be based on internal consensus from attendees of the meeting. TC39 decisions do not require prior recommendations from SLTG, and TC39 may choose to not adopt an SLTG recommendation.
 
 ## Participation
@@ -26,6 +25,7 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 - SLTG is intended to be a friendly, collaborative space to foster iterative design work on proposals. Procedurally, SLTG is not intended to be a miniature TC39 for standard library proposals. The idea is to gather relevant stakeholders already participating in TC39 to iterate on library work and iron out concerns before going to plenary for approval of stage advancement. Lack of consensus on recommendations should be taken as steady progress.
 - SLTG is intended as an attractive space for proposal champions, implementers, and reviewers to get work done and be in communication, gradually getting them all in the same space. Over time, more of the discussions would be shifted into the SLTG from TC39 plenary. Should discussions arise in TC39, then the earlier conclusion from the SLTG can be referenced and explained, to be revisited only if necessary.
 - Proposal champions are free to work with SLTG, or to develop their proposals entirely in plenary. SLTG may discuss a TC39 proposal and follow up with the champion and committee about it. No up-front decision needs to be made about whether a proposal will be discussed in SLTG or not.
+- To generally act as a first filter for library proposals. Stage 0 proposals recommended by SLTG should be sufficiently polished that they can be fast-tracked to stage 2 (like any other sufficiently polished proposal).
 
 ## Prior Art
 
@@ -48,7 +48,7 @@ Library proposals could be any of, but not limited to, the following: built-in m
 
 ### Does this undermine plenary meeting's authority?
 
-The plenary meeting has the final say on proposal advancement for stages 2+. This task group is designed to promote a healthier feedback loop.
+The plenary meeting has the final say on proposal advancement for stages. This task group is designed to promote a healthier feedback loop.
 
 ### Why not ad-hoc by proposal?
 
