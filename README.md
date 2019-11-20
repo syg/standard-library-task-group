@@ -32,6 +32,7 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 - TG2 (ecma402) works well and is highly productive.
 - The [C++ committee](https://isocpp.org/std/the-committee) is subdivided among domains and has a parallelized pipeline model.
 - Allen Wirfs-Brock's [vision talk in 2017](https://github.com/tc39/agendas/blob/master/2017/ES-next20.pdf) envisioned smaller, parallel subgroups with fewer in-person meetings and specifically cited the C++ committee.
+- Dan Ehrenberg has also done much here to scale TC39 with the various calls he's bootstrapped.
 
 ## FAQ
 
