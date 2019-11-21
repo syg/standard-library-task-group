@@ -8,11 +8,11 @@ This proposal is to spin up a Standard Library Task Group (SLTG) that meets at a
 
 The structure here is largely inspired by TG2, the Intl working group, its calls and reports to TC39 plenary.
 
-- Shall have one or more appointed chairs by TC39 plenary, whose responsibilities will include facilitating meetings, recommending whether proposals should be designed in SLTG or in plenary, presenting summary updates to plenary, and seeking constraints for advancement from plenary.
+- Shall have one or more appointed chairs by TC39 plenary, whose responsibilities will include facilitating meetings, orienting new participants and guide participation, presenting summary updates to plenary, and seeking constraints for advancement from plenary.
 - Shall **not** have an editor, as it does not produce a new spec.
 - Same IPR policy as TC39 plenary.
-- Consensus-driven. The goal is a healthier feedback loop, and to that goal, consensus means general agreement. General agreement is meant to be reachable without unanimity and with objections outstanding. When general agreement is not apparent, the chair(s) may adjudicate.
-- Proposals are discussed in SLTG in the first place by general agreement. Further, proposals under discussion are prioritized at the start of each meeting by general agreement. As above, when general agreement is not apparent, the chair(s) may adjudicate.
+- Consensus-driven. The goal is a healthier feedback loop, and to that goal, consensus means general agreement. General agreement is meant to be reachable without unanimity and with objections outstanding. When general agreement is not readily apparent, the chair(s) may adjudicate to ensure meetings run smoothly and in a timely manner.
+- Proposals are discussed in SLTG in the first place by general agreement. Further, proposals under discussion are prioritized at the start of each meeting by general agreement. As above, when general agreement is not readily apparent, the chair(s) may adjudicate.
 - Be responsible for producing and reporting recommendations to TC39 on the development and stage advancement of library proposals. SLTG recommendations to TC39 are to be based on internal consensus from attendees of the meeting. TC39 decisions do not require prior recommendations from SLTG, and TC39 may choose to not adopt an SLTG recommendation.
 
 ## Participation
