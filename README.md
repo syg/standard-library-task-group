@@ -19,6 +19,7 @@ The structure here is largely inspired by TG2, the Intl working group, its calls
 
 - Participants are TC39 delegates (whether regular attendees or invited experts). Participation is open and strongly encouraged for those delegates interested in the stewardship of the standard library or any specific library proposal. Each SLTG update to TC39 should be accompanied by an active call to participation. All implementers of library features, such as browser developers, and polyfill authors, are further encouraged to regularly attend.
 - Initially meet for one hour every two weeks via video-conference. It is free to update its cadence and meeting length.
+- Publish a rough agenda at least 1 day before the meeting.
 - Publish minutes and updates after each meeting, including a summary of planned recommendations for TC39.
 
 ## Aspirational Norms
